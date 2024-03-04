@@ -1,5 +1,7 @@
 # milestone1
 
+## test push repo branchBintang
+
 ## Resources
 
 Website buat cek color scheme : [Coolors](https://www.coolors.co/)
